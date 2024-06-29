@@ -2,7 +2,7 @@
 Powershell Installation to termux script
 
 You can copy & paste to termux terminal to install powershell and start powershell everytime you open termux terminal again
-bash```
+```
 pkg install proot-distro
 proot-distro install debian
 echo "proot-distro login debian" >> ~/.bashrc
